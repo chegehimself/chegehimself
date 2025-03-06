@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm James 👋
 
-<!--
-**chegehimself/chegehimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I craft cutting-edge web and mobile applications.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** TypeScript, JavaScript, Python
+- **Frameworks:** Angular, React, React Native
+
+### 🔭 Current Focus
+
+- 🔭 I'm currently working on web and mobile applications using TypeScript
+- 🌱 I'm currently learning advanced React optimization techniques
+- 👯 I'm looking to collaborate on innovative TypeScript/JavaScript projects
+- 🤔 I'm looking for help with performance tuning React applications
+- 💬 Ask me about TypeScript, Angular, React, or physics!
+
+### ⚡ Fun Facts
+
+- Chess enthusiast who occasionally sacrifices queens (sometimes intentionally)
+- Physics nerd fascinated by everything from the Big Bang to quantum mechanics
+
+### Connect
+
+Feel free to reach out if you want to collaborate on projects.
